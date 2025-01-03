@@ -1,0 +1,11 @@
+```plaintext
+opencv-python==4.8.0  # For image processing and video capture
+mediapipe==0.10.8    # For hand tracking and landmarks detection
+pyautogui==0.9.55    # For simulating mouse actions
+pynput==1.7.6        # For advanced mouse control
+```
+
+### Notes:  
+- **Version Compatibility**: The versions mentioned are based on typical compatibility. Adjust them if you are using specific versions for your project.  
+
+This file ensures all required packages are installed for smooth execution.
